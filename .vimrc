@@ -6,3 +6,4 @@ set relativenumber
 set cursorline
 set cursorcolumn
 set nowrap
+set ruler
