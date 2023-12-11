@@ -7,7 +7,10 @@ set cursorline
 set cursorcolumn
 set nowrap
 set ruler
+
+"====SEARCH===="
 set incsearch
+set hlsearch
 
 "====SMARTCASE DEPENDS ON IGNORECASE===="
 set ignorecase
