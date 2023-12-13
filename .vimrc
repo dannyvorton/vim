@@ -15,3 +15,6 @@ set hlsearch
 "====SMARTCASE DEPENDS ON IGNORECASE===="
 set ignorecase
 set smartcase
+
+"====CODE COMPLETION===="
+filetype plugin on
